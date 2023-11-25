@@ -7,6 +7,6 @@ terraform {
   }
 }
 provider "aws" {
-  profile ="Cloud_Res"
-  region = "us-east-2"
+  profile ="test-user-resume"
+  region = "us-east-1"
 }
